@@ -41,8 +41,8 @@ These datasets are preprocessed and merged for analysis and recommendation.
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/foa-recommender-system.git
-   cd foa-recommender-system
+   git clone https://github.com/david11133/Movie_Recommender.git
+   cd Movie_Recommender
    ```
 
 2. **Prepare the Data:**
@@ -86,8 +86,4 @@ The results of the recommendation system are evaluated based on the metrics ment
 - [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
 - [Firefly Algorithm Overview](https://en.wikipedia.org/wiki/Firefly_algorithm)
 - [Surprise Library Documentation](https://surprise.readthedocs.io/)
-
----
-
-Feel free to contribute to this project by submitting issues or pull requests. For any inquiries, contact `your-email@example.com`.
 
